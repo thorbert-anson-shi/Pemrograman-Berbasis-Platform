@@ -1,0 +1,3 @@
+[submodule "mental-health-tracker"]
+	path = mental-health-tracker
+	url = git@github.com:thorbert-anson-shi/mental-health-tracker.git
