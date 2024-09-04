@@ -4,3 +4,6 @@
 [submodule "my-first-repo"]
 	path = my-first-repo
 	url = git@github.com:thorbert-anson-shi/my-first-repo.git
+[submodule "goodbye-stale"]
+	path = goodbye-stale
+	url = git@github.com:thorbert-anson-shi/goodbye-stale.git
