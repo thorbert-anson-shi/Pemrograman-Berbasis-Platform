@@ -1,0 +1,27 @@
+Ketentuan:
+  1. Pilihlah salah satu platform yang telah dijelaskan dalam materi Topik 01. Sebutkan nama platform yang Anda pilih.
+  2. Sebutkan perangkat atau aplikasi yang tergolong dalam platform tersebut yang pernah Anda gunakan.
+  3. Berikan contoh serangan siber yang dapat terjadi pada platform tersebut.
+  4. Hal apa yang sudah Anda terapkan untuk memastikan perangkat atau aplikasi yang pernah Anda gunakan tersebut aman dari serangan siber?
+
+  Minimum 1000 kata.
+
+Kerangka:
+  1. Pendahuluan (Perkenalan mengenai definisi platform)
+  2. Isi/Pembahasan (Pemebahasan mengenai poin2 yang disebutkan dalam ketentuan)
+  3. Kesimpulan (Rangkuman esai, beserta dengan saran kepada pembaca)
+
+Ide:
+  1. Sebagian besar masalah keamanan siber dipicu oleh kecerobohan manusia. Hal ini merupakan basis dari social engineering, yang merupakan metode untuk mendapatkan informasi 
+     konfidensial langsung dari manusia yang memegang informasi tersebut, tanpa harus melewati lapisan perlindungan dari sistem yang ingin di-compromise.
+  2. Sistem operasi merupakan suatu platform yang dapat digunakan untuk membangun dan menjalankan program.
+  3. Linux adalah suatu OS yang sering digunakan pada server dan sistem tertanam karena fleksibilitas OS tersebut.
+  4. Linux merupakan OS yang bersifat open source, yakni software yang source code-nya dapat diakses dan dimodifikasi oleh pengguna software tersebut. Hal ini memfasilitasi
+     kontribusi dari berbagai developer dengan keahlian masing-masing. Hal ini berbeda dengan OS proprietary seperti Windows atau macOS yang dikembangkan dan dirawat oleh satu
+     pihak utama, yakni perusahaannya sendiri.
+  5. Karena adanya komunitas Linux yang ekstensif, maka adanya vulnerability atau ancaman siber pada source code dapat lebih cepat ditemukan dan dilerai dibandingkan dengan macOS
+     proprietary.
+  6. Karena sifat Linux yang open source, ia relatif rentan terhadap serangan siber dalam bentuk kontribusi terhadap source code yang bersifat malicious.
+  7. Contoh serangan siber yang pernah terjadi terhadap Linux di masa lalu:
+      a. Seorang kontributor XZ Utils (tool untuk melakukan file compression di Linux) menaruh kode malicious dan tidak tertangkap oleh pihak yang mengawasi development package.
+      b.  
